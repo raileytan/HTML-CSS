@@ -1,0 +1,38 @@
+marquee { 
+		background-color: skyblue;
+
+}
+
+section {
+		width: 1000px;
+		margin: auto;
+		
+}
+
+body {	
+		background-color: white;
+		
+}
+
+picture {
+		float: left;
+		display: inline;
+		
+}
+
+h3 {
+    border-style: solid;
+    text-align: center;
+    outline-style: solid;
+    font-weight: bold;
+    padding: 25px;
+}
+
+h4 {
+    border-style: solid;
+    text-align: center;
+    outline-style: solid;
+    font-weight: bold;
+    padding: 25px;
+	
+}
